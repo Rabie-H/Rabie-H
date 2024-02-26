@@ -4,7 +4,7 @@
 
 <center>
 
-## 🤖 Welcome to the GitHub page of Raby Hamadi, an Artificial Intelligence Specialist 🤖
+## 🤖 Welcome to the GitHub page of Raby Hamadi, an AI Specialist 🤖
 
 ### 🌟 About Me:
 Hey there! I'm Raby Hamadi, an AI enthusiast on a mission to make the world smarter, one algorithm at a time. With a passion for innovation and a knack for problem-solving, I've delved deep into the realms of artificial intelligence, particularly in the exciting fields of computer vision and language models.
