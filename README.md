@@ -4,22 +4,16 @@
 
 <center>
 	
-## 🤖 Welcome to the GitHub page of Raby Hamadi, an AI Specialist 🤖
+## 🤖 Welcome 🤖
 
 ### 🌟 About Me:
-Hey there! I'm Raby Hamadi, an AI enthusiast on a mission to make the world smarter, one algorithm at a time. With a passion for innovation and a knack for problem-solving, I've delved deep into the realms of artificial intelligence, particularly in the exciting fields of computer vision and language models.
+Hey there! I'm Raby Hamadi, an AI enthusiast. Currently working as an AI Specialist 
 
 ### 🚀 Expertise:
-My journey in AI has been diverse, spanning academia, research, and industry across international borders. I've had the pleasure of working on various computer vision projects, from enhancing image recognition systems to developing cutting-edge object detection algorithms. Additionally, my experience extends to the realm of large language models (LLMs), where I've explored the depths of natural language understanding and generation.
-
-### 💡 Mission:
-Driven by a hunger for knowledge and a desire to make a difference, I'm committed to advancing AI in ways that are not only groundbreaking but also ethical and inclusive. Whether it's through collaborative research or hands-on projects, I strive to create AI solutions that are not just powerful, but also responsible and fair.
-
-### 🔧 Technologies:
-In my AI toolbox, you'll find an arsenal of tools and technologies, including TensorFlow, PyTorch, scikit-learn, and more. From designing complex neural networks to fine-tuning machine learning models, I've got the skills and expertise to tackle any AI challenge head-on.
+My journey in AI has been diverse, spanning academia, research, and industry across international borders. I've had the pleasure of working on various computer vision projects, from enhancing image recognition systems to advanced computer vision algorithms. Additionally, my experience extends to the realm of large language models (LLMs), where I've explored the depths of natural language understanding and generation.
 
 ### 🌐 Connect:
-Ready to dive into the world of AI together? Explore my projects, contributions, and insights right here on GitHub. Whether you're curious about AI, looking to collaborate, or just want to chat about the latest tech trends, feel free to reach out. Let's build a smarter future, one line of code at a time!
+Whether you're curious about AI, looking to collaborate, or just want to chat about the latest tech trends, feel free to reach out.
 
 </center>
 
